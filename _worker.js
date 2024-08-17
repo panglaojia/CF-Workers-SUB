@@ -12,7 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 let cacheTTL = 24 ;//小时，缓存时长
 
-节点链接 + 订阅链接
+//节点链接 + 订阅链接
 let MainData = 
 'https://ds.okso.us.kg/a9c511ad-32f1-4882-a4da-81593866f3b2'
 ,
