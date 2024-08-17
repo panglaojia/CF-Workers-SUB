@@ -13,9 +13,9 @@ let timestamp = 4102329600000;//2099-12-31
 let cacheTTL = 24 ;//小时，缓存时长
 
 节点链接 + 订阅链接
-let MainData = `
-https://ds.okso.us.kg/a9c511ad-32f1-4882-a4da-81593866f3b2
-`
+let MainData = 
+'https://ds.okso.us.kg/a9c511ad-32f1-4882-a4da-81593866f3b2'
+,
 
 let urls = [];
 let subconverter = "subapi-loadbalancing.pages.dev"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
